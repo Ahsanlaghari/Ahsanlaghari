@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ahsanlaghari
 - 👀 I’m interested in Artificial Intelligence and Cyber Security 
-- 🌱 I’m currently learning Fronntend Development 
-- 💞️ I’m looking to collaborate on Fronntend Development 
-- 📫 How to reach me from gmail[laghariahsan09@gmail.com]
-- 😄 Pronouns: he,his,him
+- 🌱 I’m currently learning Frontend Development 
+- 💞️ I’m looking to collaborate on Frontend Development 
+- 📫 How to reach me from gmail: laghariahsan09@gmail.com
+- 😄 Pronouns: he, his, him
 - ⚡ Fun fact: 404
 
 <!---
